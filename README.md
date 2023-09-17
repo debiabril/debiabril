@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre Mí:
 🔭 Me encuentro trabajando con https://github.com/ADNWebSolutions <br>🤝Trabajamos en colaborativo con este hermoso grupo de personas<br>🌱 Recientemente recibí mi insignia de Fullstack Developer MERN<br>💬 Amo a mi gato Leo 😻, los colores 🌈, la música 🎵🎶 y bailar 💃<br>⚡ Dato curioso: Se necesita menos código para enviar a un hombre 👨‍🚀 a la luna 🌖 que para manejar un celular 📱
 
 
