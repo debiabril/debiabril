@@ -11,9 +11,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=debiabril&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=debiabril&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=debiabril&icon=2&color=9)](https://visitcount.itsvg.in)
 
